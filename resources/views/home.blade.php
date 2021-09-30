@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="card mt-5 bg-info text-white">
-        <div class="card-header">
+        <div class="card-header ">
             <p>Registro de Datos de Usuario</p>
         </div>
     </div>
