@@ -31,7 +31,7 @@
 
                             <div class="form-group">
                                 <label for="exampleInputEmail1" class="form-label">Correo Electronica</label>
-                                <span class="col-md-5 col-md-offset-2 text-center"><i class="fa fa-envelope-o bigicon"></i></span>
+                                <span class="col-md-5 col-md-offset-2 text-center color-white"><i class="fa fa-envelope-o bigicon"></i></span>
                                 <div class="col-md-4">
                                     <input id="email" name="email" type="text" placeholder="Correo Electronico" class="form-control">
                                 </div>
