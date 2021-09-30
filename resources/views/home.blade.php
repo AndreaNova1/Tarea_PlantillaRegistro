@@ -44,10 +44,10 @@
                                 </div>
                             </div>
 
-                            <div class="form-group">
+                            <div class="form-group align-content-center">
                                 <label for="exampleInputEmail1" class="form-label">Telefono</label>
-                                <span class="col-md-5 "><i class="fa fa-phone-square bigicon"></i></span>
-                                <div class="col-md-4">
+                                <span class="col-md-5 text-center "><i class="fa fa-phone-square bigicon"></i></span>
+                                <div class="col-md-4 text-center">
                                     <input id="phone" name="phone" type="text" placeholder="Telefono" class="form-control">
                                 </div>
                             </div>
@@ -58,9 +58,6 @@
                                     <input type="date" class="form-control" id="Fecha" aria-describedby="Fecha">
                                 </div>
                             </div>
-
-
-
 
                             <div class="form-group">
                                 <div class="col-md-12 text-center ">
